@@ -5,7 +5,7 @@ import Chapter16.List.Lists;
 
 public class DataStack<E> implements Stacks<E>{
 	
-	private final Lists<E> elements = new ArrayLists<>();
+	Lists<E> elements = new ArrayLists<>();
 	
 	@Override
 	public boolean empty() {
@@ -19,22 +19,20 @@ public class DataStack<E> implements Stacks<E>{
 	}
 	
 	@Override
-	public Object pop() {
-		System.out.println("size before: "+elements.size());
+	public E pop() {
 		Object lastElementInTheArray = elements.get(elements.size() - 1);
-		elements.add(null, elements.size()-1);
-		elements.removeExtraSpaceFromArray();
-		return lastElementInTheArray;
+		Lists<E> newElementsCollection = new ArrayLists<>();
+		return null;
 	}
 	
 	@Override
-	public Object peek() {
+	public E peek() {
 		Object elementInTheLastIndex = null;
 		for (int i = 0; i < elements.size(); i++) {
 			if(i == elements.size() - i)
 				elementInTheLastIndex = elements.get(i);
 		}
-		return elementInTheLastIndex;
+		return (E) elementInTheLastIndex;
 	}
 	
 	@Override
