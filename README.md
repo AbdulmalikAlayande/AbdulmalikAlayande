@@ -114,8 +114,7 @@
   </picture>
 </p>
 </div>
-<div>
-  <h3>Connect With Me: </h3>
+<h1>Connect With Me: </h1>
   <div display="flex" justify-content="space-between">
     <a href="https://www.instagram.com/blaq_mhee/">
       <button>
