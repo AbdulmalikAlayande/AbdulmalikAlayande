@@ -50,6 +50,27 @@
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </button>
+    <button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="javascript" width="40" height="40" />  
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="javascript" width="40" height="40" />
+</button>
 </div>
 <div>
   <h1>GitHub Stats</h1>
