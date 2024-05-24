@@ -2,12 +2,11 @@
 <h3 align="center">A Software Engineer and Aspriring Systems Engineer</h3>
 <div>
   <h1>Tools</h1>
-  <h3>Languages</h3>
       <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" />
         <span></span>   
     </button>
-  <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
         <span></span> 
     </button>
@@ -39,26 +38,18 @@
     <button>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </button>
-  </p>
-  <h3>Devops</h3>
-  <p>
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
     </button>
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
     </button>
-  </p>
-  <h3>Operating Systems</h3>
-  <p>
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
     </button>
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </button>
-  </p>
-  
 </div>
 <div>
   <h1>GitHub Stats</h1>
