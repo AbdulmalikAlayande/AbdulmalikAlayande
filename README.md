@@ -3,7 +3,7 @@
 <div>
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
-  <p align="center">
+  <p>
     <button>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
