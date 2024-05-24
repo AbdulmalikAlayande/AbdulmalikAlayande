@@ -87,7 +87,7 @@
   <div>
     <div>
       <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="linux" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
       </a>
       <p>Windows</p>
     </div>
