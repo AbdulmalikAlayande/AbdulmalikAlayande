@@ -4,28 +4,16 @@
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
   <p>
-    <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
           alt="javascript" width="40" height="40" />
-      <span>Java</span>
-    </button>
-    <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
           alt="javascript" width="40" height="40" />
-      	<span>Spring</span>
-    </button>
-    <button>
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
       	</a>
-      <span>Python</span>
-    </button>
-    <button>
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="html5" width="40" height="40" />
       </a>
-      <span>Django</span>
-    </button>
     <button>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
