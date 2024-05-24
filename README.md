@@ -36,37 +36,37 @@
       </a>
       JavaScript
     </button>
-    <div>
+    <button>
       <a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" />
       </a>
       TypeScript
-    </div>
-    <div>
+    </button>
+    <button>
       <a href="https://reactjs.com/" target="_blank">
       	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
       </a>
       React
-    </div>
-    <div>
+    </button>
+    <buton>
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
       </a>
       HTML5
-    </div>
-    <div>
+    </buton>
+    <button>
       <a href="https://www.w3.org/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </a>
       CSS
-    </div>
-    <div>
+    </button>
+    <button>
       <a href="https://firebase.google.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
       </a>
       Firebase
-    </div>
+    </button>
   </p>
   <h3>Devops Tools</h3>
   <div>
@@ -74,13 +74,13 @@
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="40" height="40" />
       </a>
-      <p>Docker</p>
+      Docker
     </div>
     <div>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="linux" width="40" height="40" />
       </a>
-      <p>Jenkins</p>
+      Jenkins
     </div>
   </div>
   <h3>Operating Systems</h3>
@@ -89,7 +89,7 @@
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
       </a>
-      <p>Windows</p>
+      <p>Windows
     </div>
     <div>
       <a href="https://www.linux.org/" target="_blank">
