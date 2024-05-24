@@ -3,9 +3,23 @@
 <div>
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
-  | Language| Framework|
-| --- | --- |
-| Java | Spring, Springboot |
+ | Name | Description | Type | Default value |
+| --- | --- | --- | --- |
+| `hide` | Hides the [specified items](#hiding-individual-stats) from stats. | string (comma-separated values) | `null` |
+| `hide_title` | Hides the title of your stats card. | boolean | `false` |
+| `card_width` | Sets the card's width manually. | number | `500px  (approx.)` |
+| `hide_rank` | Hides the rank and automatically resizes the card width. | boolean | `false` |
+| `rank_icon` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | enum | `default` |
+| `show_icons` | Shows icons near all stats. | boolean | `false` |
+| `include_all_commits` | Count total commits instead of just the current year commits. | boolean | `false` |
+| `line_height` | Sets the line height between text. | integer | `25` |
+| `exclude_repo` | Excludes specified repositories. | string (comma-separated values) | `null` |
+| `custom_title` | Sets a custom title for the card. | string | `<username> GitHub Stats` |
+| `text_bold` | Uses bold text. | boolean | `true` |
+| `disable_animations` | Disables all animations in the card. | boolean | `false` |
+| `ring_color` | Color of the rank circle. | string (hex color) | `2f80ed` |
+| `number_format` | Switches between two available formats for displaying the card values `short` (i.e. `6.6k`) and `long` (i.e. `6626`). | enum | `short` |
+| `show` | Shows [additional items](#showing-additional-individual-stats) on stats card (i.e. `reviews`, `discussions_started`, `discussions_answered`, `prs_merged` or `prs_merged_percentage`). | string (comma-separated values) | `null` |
   <p>
     <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
