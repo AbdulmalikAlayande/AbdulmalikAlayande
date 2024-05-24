@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer and Aspriring Systems Engineer</h3>
 <div>
   <h1>Tools</h1>
-  <h3>Languages and Frameworks</h3>
+  <h3>Languages</h3>
       <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" />
         <span></span>   
