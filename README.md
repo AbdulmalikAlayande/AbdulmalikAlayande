@@ -4,10 +4,51 @@
   <h1>Tools</h1>
   <div>
     <h3>Languages and Frameworks</h3>
-    <ol>
-      <li>Java</li>
-      <li>Python</li>
-    </ol>
+    <div>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="javascript" width="40" height="40" />
+      </a>
+      <p>Java</p>
+    </div>
+    <div>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+          alt="javascript" width="40" height="40" />
+      	</a>
+      	<p>Spring</p>
+    </div>
+    <div>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+      	</a>
+      <p>Python</p>
+    </div>
+    <div>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+      </a>
+      <p>JavaScript</p>
+    </div>
+    <div>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" />
+      </a>
+      <p>TypeScript</p>
+    </div>
+    <div>
+      <a href="https://reactjs.com/" target="_blank">
+      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+      </a>
+      <p>React</p>
+    </div>
+    <div>
+      <a href="https://firebase.google.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+      </a>
+      <p>Firebase</p>
+    </div>
   </div>
   <div>
     <h3>Devops Tools</h3>
