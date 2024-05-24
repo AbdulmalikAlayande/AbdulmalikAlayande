@@ -26,7 +26,7 @@
 
 <a href="https://www.instagram.com/blaq_mhee/">
   <button>
-    <img src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703335728/cloudinary_images/bola_air/static_assets/instagram_x4vtkb.png" alt="instagram image">
+    <img height="50px" src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703335728/cloudinary_images/bola_air/static_assets/instagram_x4vtkb.png" alt="instagram image">
   </button>
 </a>
 <a href="https://www.facebook.com/abdulmalik.alayande.39">
