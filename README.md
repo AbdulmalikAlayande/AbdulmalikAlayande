@@ -88,6 +88,30 @@
 <button target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="javascript" width="40" height="40" />
 </button>
+  <button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="javascript" width="40" height="40" />
+</button>
+<button target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="javascript" width="40" height="40" />
+</button>
 </div>
 <h1>Connect With Me: </h1>
   <div display="flex" justify-content="space-between">
