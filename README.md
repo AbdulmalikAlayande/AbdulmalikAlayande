@@ -3,6 +3,9 @@
 <div>
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
+  | Language| Framework|
+| --- | --- |
+| Java | Spring, Springboot |
   <p>
     <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
