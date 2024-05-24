@@ -4,16 +4,16 @@
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
   <p>
-    <p>
+    <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
           alt="javascript" width="40" height="40" />
       Java
-    </p>
-    <p>
+    </button>
+    <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
           alt="javascript" width="40" height="40" />
       	Spring
-    </p>
+    </button>
     <button>
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
