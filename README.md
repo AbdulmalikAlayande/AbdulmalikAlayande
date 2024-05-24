@@ -3,64 +3,67 @@
 <div>
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    <div>Java</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
-    <div>Spring</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <div>Python</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-    </a>
-    <div>Django</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <div>JavaScript</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <div>TypeScript</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-    </a>
-    <div>React</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <div>HTML5</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.w3.org/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <div>CSS</div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <div>Firebase</div>
-  </div>
-</div>
+  <p>
+    <button>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="javascript" width="40" height="40" />
+      <span>Java</span>
+    </button>
+    <button>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+          alt="javascript" width="40" height="40" />
+      	<span>Spring</span>
+    </button>
+    <button>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+      	</a>
+      <span>Python</span>
+    </button>
+    <button>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="html5" width="40" height="40" />
+      </a>
+      <span>Django</span>
+    </button>
+    <button>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+      </a>
+      <span>JavaScript</span>
+    </button>
+    <button>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" />
+      </a>
+      <span>TypeScript</span>
+    </button>
+    <button>
+      <a href="https://reactjs.com/" target="_blank">
+      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+      </a>
+      React
+    </button>
+    <buton>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+      </a>
+      HTML5
+    </buton>
+    <button>
+      <a href="https://www.w3.org/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+      </a>
+      CSS
+    </button>
+    <button>
+      <a href="https://firebase.google.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+      </a>
+      Firebase
+    </button>
+  </p>
   <h3>Devops Tools</h3>
   <div>
     <div>
