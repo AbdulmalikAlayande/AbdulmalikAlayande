@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img width="32px" height="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Abdulmalik Alayande </h1>
 <h3 align="center">A Software Engineer and Aspriring Systems Engineer</h3>
-- 🔭 I’m currently working on an EHR system and Learning Management Platform
-- 🌱 I’m currently learning a lot things
-- 😄 Pronouns: (Invisible😂)
-- ⚡ Fun fact: I eat too much(not fun again tho)
+<p>🔭 I’m currently working on an EHR system and Learning Management Platform</p>
+<p>🌱 I’m currently learning a lot things</p>
+<p>😄 Pronouns: (Invisible😂)</p>
+<p>⚡ Fun fact: I eat too much(not fun again tho)</p>
 <div>
   <h1>Tools</h1>
       <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
