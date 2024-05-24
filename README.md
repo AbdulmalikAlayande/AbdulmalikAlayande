@@ -103,7 +103,8 @@
 </div>
 <div>
   <h1>GitHub Stats</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulmalikAlayande&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=AbdulmalikAlayande&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulmalikAlayande&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulmalikAlayande&theme=dark" /> </p>
