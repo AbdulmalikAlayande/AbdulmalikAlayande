@@ -85,19 +85,19 @@
   </div>
   <h3>Operating Systems</h3>
   <div>
-    <div>
+    <button>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
       </a>
-      <p>Windows
-    </div>
-    <div>
+      Windows
+    </button>
+    <button>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
           width="40" height="40" />
       </a>
       <p>Linux</p>
-    </div>
+    </button>
   </div>
   
 </div>
