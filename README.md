@@ -109,7 +109,7 @@
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulmalikAlayande&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulmalikAlayande&theme=dark" /> </p>
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulmalikAlayande&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=#000000" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulmalikAlayande&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave" />  
 </picture>
 <div>
   <h3>Connect With Me: </h3>
