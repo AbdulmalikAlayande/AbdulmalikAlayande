@@ -19,61 +19,45 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="html5" width="40" height="40" />
         <span></span> 
     </button>
-    <span href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         <span></span>  
-    </span>
-    <span href="https://www.typescriptlang.org/" target="_blank">
+    </button>
+    <button href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
         <span></span> 
-    </span>
-    <span href="https://reactjs.com/" target="_blank">
+    </button>
+    <button href="https://reactjs.com/" target="_blank">
       	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-        <span></span> 
-    </span>
-    <span href="https://www.w3.org/html/" target="_blank">
+    </button>
+    <button href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-        <span></span>
-    </span>
-    <span href="https://www.w3.org/css/" target="_blank">
+    </button>
+    <button href="https://www.w3.org/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-        <span></span>
-    </span>
+    </button>
     <button>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </button>
   </p>
   <h3>Devops</h3>
-  <div>
+  <p>
     <button>
-      <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-      </a>
-      Docker
     </button>
     <button>
-      <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
-      </a>
-      Jenkins
     </button>
-  </div>
+  </p>
   <h3>Operating Systems</h3>
-  <div>
+  <p>
     <button>
-      <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
-      </a>
-      Windows
     </button>
     <button>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-          width="40" height="40" />
-      </a>
-      Linux
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </button>
-  </div>
+  </p>
   
 </div>
 <div>
