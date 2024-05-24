@@ -4,12 +4,12 @@
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
   <p>
-    <button>
+    <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
           alt="javascript" width="40" height="40" />
       <span>Java</span>
     </button>
-    <button>
+    <button style="display: flex; flex-direction: column;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
           alt="javascript" width="40" height="40" />
       	<span>Spring</span>
