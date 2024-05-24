@@ -3,22 +3,22 @@
 <div>
   <h1>Tools</h1>
   <h3>Languages and Frameworks</h3>
-      <span href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" />
         <span></span>   
-    </span>
-  <span href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    </button>
+  <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
         <span></span> 
-    </span>
-    <span>
+    </button>
+    <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
         <span></span> 
-    </span>
-    <span href="https://www.w3.org/html/" target="_blank">
+    </button>
+    <button href="https://www.w3.org/html/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="html5" width="40" height="40" />
         <span></span> 
-    </span>
+    </button>
     <span href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         <span></span>  
