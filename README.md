@@ -6,7 +6,7 @@
   
  | Name | Framework | Logo | Default value |
  | --- | --- | --- | --- |
- | Java | Spring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" /> |
+ | Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> | Spring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" /> |
  | Python | Django | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> | `false` |
  | `card_width` | Sets the card's width manually. | number | `500px  (approx.)` |
 
