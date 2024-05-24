@@ -7,7 +7,7 @@
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
           alt="javascript" width="40" height="40" />
-      Java
+      <p>Java</p>
     </button>
     <button>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
