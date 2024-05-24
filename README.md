@@ -64,20 +64,20 @@
       Firebase
     </button>
   </p>
-  <h3>Devops Tools</h3>
+  <h3>Devops</h3>
   <div>
-    <div>
+    <button>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="40" height="40" />
       </a>
       Docker
-    </div>
-    <div>
+    </button>
+    <button>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="linux" width="40" height="40" />
       </a>
       Jenkins
-    </div>
+    </button>
   </div>
   <h3>Operating Systems</h3>
   <div>
@@ -92,7 +92,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
           width="40" height="40" />
       </a>
-      <p>Linux</p>
+      Linux
     </button>
   </div>
   
