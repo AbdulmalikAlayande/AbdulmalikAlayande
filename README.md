@@ -5,6 +5,19 @@
 <p>😄 Pronouns: (Invisible😂)</p>
 <p>⚡ Fun fact: I eat too much(not fun again tho)</p>
 <div>
+  <h1>GitHub Stats</h1>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulmalikAlayande&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=AbdulmalikAlayande&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
+<p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulmalikAlayande&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulmalikAlayande&theme=dark" /> </p>
+<p align="center">
+  <picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=AbdulmalikAlayande&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox" />
+  </picture>
+</p>
+</div>
+<div>
   <h1>Tools</h1>
       <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40" />
@@ -75,19 +88,6 @@
 <button target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="javascript" width="40" height="40" />
 </button>
-</div>
-<div>
-  <h1>GitHub Stats</h1>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulmalikAlayande&label=Profile%20views&color=0e75b6&style=flat)
-<p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=AbdulmalikAlayande&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
-<p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulmalikAlayande&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulmalikAlayande&theme=dark" /> </p>
-<p align="center">
-  <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbdulmalikAlayande&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox" />
-  </picture>
-</p>
 </div>
 <h1>Connect With Me: </h1>
   <div display="flex" justify-content="space-between">
