@@ -114,26 +114,10 @@
 </button>
 </div>
 <h1>Connect With Me: </h1>
-  <div display="flex" justify-content="space-between">
-    <a href="https://www.instagram.com/blaq_mhee/">
-      <button>
-        <img height="50px" src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703335728/cloudinary_images/bola_air/static_assets/instagram_x4vtkb.png" alt="instagram image">
-      </button>
-    </a>
-    <a href="https://www.facebook.com/abdulmalik.alayande.39">
-      <button>
-        <img width="50px" src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703335733/cloudinary_images/bola_air/static_assets/facebook_ryw7yw.png" alt="facebook image">
-      </button>
-    </a>
-    <a href="https://twitter.com/The_good_man02">
-      <button>
-        <img width="50px" src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703336988/cloudinary_images/bola_air/static_assets/twitter_1_gir56t.png" alt="twitter image">
-      </button>
-    </a>
-    <a href="https://www.linkedin.com/in/abdulmalik-alayande-b49814250/">
-      <button>
-        <img width="50px" src="https://res.cloudinary.com/dxqpdqzue/image/upload/v1703335729/cloudinary_images/bola_air/static_assets/linkedin_dipapn.png" alt="linkedIn image">
-      </button>
-    </a>
-  </div>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/@The_good_man02)
+[![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@alaabdulmalik03)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoWidth=20&logoColor=white&style=flat-square)](https://www.linkedin.com/in/@abdulmalik-alayande-b49814250/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoWidth=20&logoColor=white&style=flat-square)](https://www.instagram.com/blaq_mhee/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoWidth=20&logoColor=white&style=flat-square)](https://www.facebook.com/abdulmalik.alayande.39)
 </div>
