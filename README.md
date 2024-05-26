@@ -117,7 +117,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/@The_good_man02)
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@alaabdulmalik03)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoWidth=20&logoColor=white&style=flat-square)](https://www.linkedin.com/in/@abdulmalik-alayande-b49814250/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoWidth=20&logoColor=white&style=flat-square)](https://www.linkedin.com/in/abdulmalik-alayande-b49814250/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoWidth=20&logoColor=white&style=flat-square)](https://www.instagram.com/blaq_mhee/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoWidth=20&logoColor=white&style=flat-square)](https://www.facebook.com/abdulmalik.alayande.39)
 </div>
