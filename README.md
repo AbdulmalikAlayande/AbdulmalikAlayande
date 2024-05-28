@@ -4,6 +4,7 @@
 <p>🌱 I’m currently learning a lot of things</p>
 <p>😄 Pronouns: (Invisible😂)</p>
 <p>⚡ Fun fact: I eat too much(not fun again tho)</p>
+<h3><a href="https://personal-blog-seven-xi.vercel.app/">My Porfolio</a></h3>
 <div>
   <h1>GitHub Stats</h1>
   
