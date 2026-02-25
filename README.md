@@ -1,10 +1,5 @@
 <h1 align="center">Hi there <img width="32px" height="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Abdulmalik Alayande </h1>
 <h3 align="center">A Software Engineer and Aspiring Systems Engineer</h3>
-<p>🔭 I’m currently working on an EHR system and Learning Management Platform</p>
-<p>🌱 I’m currently learning a lot of things</p>
-<p>😄 Pronouns: (Invisible😂)</p>
-<p>⚡ Fun fact: I eat too much(not fun again tho)</p>
-<h3><a href="https://personal-blog-seven-xi.vercel.app/">My Porfolio</a></h3>
 <div>
   <h1>GitHub Stats</h1>
   
